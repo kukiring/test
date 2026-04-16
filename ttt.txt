@@ -1,0 +1,13 @@
+total 11290
+drwxr-xr-x 1 YUHAN 197121        0 Apr 16 10:08 ./
+drwxr-xr-x 1 YUHAN 197121        0 Apr  2 11:30 ../
+drwxr-xr-x 1 YUHAN 197121        0 Apr 16 10:07 .git/
+-rw-r--r-- 1 YUHAN 197121     7788 Apr  2 11:28 .gitignore
+-rwxr-xr-x 1 YUHAN 197121 11487160 Apr  9 10:26 ChromeSetup.exe*
+-rw-r--r-- 1 YUHAN 197121    35823 Apr  2 11:28 LICENSE
+-rw-r--r-- 1 YUHAN 197121       96 Apr  9 10:37 README.md
+-rw-r--r-- 1 YUHAN 197121        0 Apr 16 09:57 git
+-rw-r--r-- 1 YUHAN 197121     9237 Apr  9 10:25 images.jpg
+-rw-r--r-- 1 YUHAN 197121      383 Apr 16 10:07 test.txt
+-rw-r--r-- 1 YUHAN 197121        0 Apr  9 10:27 testfile.txt
+-rw-r--r-- 1 YUHAN 197121        0 Apr 16 10:08 ttt.txt
