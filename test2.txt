@@ -1,0 +1,9 @@
+ChromeSetup.exe*
+LICENSE
+README.md
+images.jpg
+new.txt
+test.txt
+test2.txt
+testfile.txt
+work.txt
